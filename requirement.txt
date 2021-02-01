@@ -1,0 +1,6 @@
+pandas
+sklearn
+plotly
+matplotlib
+dython
+seaborn
